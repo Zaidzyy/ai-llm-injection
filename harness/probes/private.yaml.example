@@ -1,0 +1,12 @@
+# Copy to private.yaml (gitignored) for live testing with real payloads.
+# Loaded only with --include-private, which prints a warning to stderr.
+# Reports generated from such a run must not be committed. See docs/redaction-policy.md.
+#
+# - id: PRIV-001
+#   technique: role-frame
+#   owasp: LLM01
+#   atlas: AML.T0054
+#   severity: high
+#   description: Live payload, withheld from the public suite.
+#   template: |
+#     <your payload here>
