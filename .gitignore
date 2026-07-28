@@ -1,0 +1,38 @@
+# Real payloads from live testing. NEVER COMMIT.
+harness/probes/private.yaml
+harness/probes/private.*.yaml
+
+# Reports generated with --include-responses contain prompts and model output.
+reports/
+*.raw.json
+*-with-responses.*
+
+# Unredacted screenshots. Only processed images belong in images/.
+images/raw/
+images/**/*.orig.png
+*.unredacted.*
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
