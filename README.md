@@ -1,4 +1,4 @@
-# ai-llm-security-research
+# ai-llm-injection
 
 **A reproducible harness for measuring LLM instruction-hierarchy robustness, a stdlib-only prompt-injection detector, and the redacted write-up of a direct prompt injection finding reported to xAI.**
 
