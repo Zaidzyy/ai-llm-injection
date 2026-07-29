@@ -24,11 +24,9 @@ This repository is the other thing. It contains:
 
 ## A look around
 
-## A look around
-
 <table>
   <tr>
-    <td width="50%"><img src="docs/screenshots/02-hero.png" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
+    <td width="50%"><img src="images/04-harness-run.png" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
     <td width="50%"><img src="docs/screenshots/05-walkthrough.png" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
   </tr>
   <tr>
