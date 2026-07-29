@@ -5,7 +5,6 @@
 [![CI](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![OWASP](https://img.shields.io/badge/OWASP-LLM01-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
