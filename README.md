@@ -1,6 +1,6 @@
 # ai-llm-injection
 
-**The write-up of a successfull direct prompt injection of Grok whose finding was reported to xAI by me and fixed, and a reproducible harness for measuring LLM instruction-hierarchy robustness, a stdlib-only prompt-injection detector**
+**The write-up of a successfull direct prompt injection of Grok whose finding was reported to xAI by me, and a reproducible harness for measuring LLM instruction-hierarchy robustness, a stdlib-only prompt-injection detector**
 
 [![CI](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
