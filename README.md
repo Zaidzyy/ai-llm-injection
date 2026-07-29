@@ -26,16 +26,16 @@ This repository is the other thing. It contains:
 
 <table>
   <tr>
-    <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
-    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
+    <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Hero</b> — Prompt Injection Example 1</sub></td>
+    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — Prompt Injection Example 2</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Residences</b> — parallax gallery, generated photography</sub></td>
-    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Statement</b> — two-column editorial with a parallax image</sub></td>
+    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Residences</b> — Prompt Injection Example 3</sub></td>
+    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Statement</b> — Prompt Injection Example 4</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Services</b> — hover-driven list with a live detail panel</sub></td>
-    <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Process</b> — staggered reveals on a blueprint grid</sub></td>
+    <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Services</b> — Sneakpeek of how i jailbroke it</sub></td>
+    <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Process</b> — harness python run output</sub></td>
   </tr>
 </table>
 
