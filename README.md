@@ -26,15 +26,15 @@ This repository is the other thing. It contains:
 
 <table>
   <tr>
-    <td width="50%"><img src="images/prompt1.png" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
-    <td width="50%"><img src="images/prompt2.png" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
+    <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
+    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/prompt3.png" width="100%"/><br/><sub><b>Residences</b> — parallax gallery, generated photography</sub></td>
-    <td width="50%"><img src="images/prompt4.png" width="100%"/><br/><sub><b>Statement</b> — two-column editorial with a parallax image</sub></td>
+    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Residences</b> — parallax gallery, generated photography</sub></td>
+    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Statement</b> — two-column editorial with a parallax image</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/jailbreak.png" width="100%"/><br/><sub><b>Services</b> — hover-driven list with a live detail panel</sub></td>
+    <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Services</b> — hover-driven list with a live detail panel</sub></td>
     <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Process</b> — staggered reveals on a blueprint grid</sub></td>
   </tr>
 </table>
