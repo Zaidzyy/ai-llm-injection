@@ -26,16 +26,16 @@ This repository is the other thing. It contains:
 
 <table>
   <tr>
-    <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Hero</b> — Prompt Injection Example 1</sub></td>
-    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — Prompt Injection Example 2</sub></td>
+    <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Example 1</b> — Prompt Injection</sub></td>
+    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — Prompt Injection</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Residences</b> — Prompt Injection Example 3</sub></td>
-    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Statement</b> — Prompt Injection Example 4</sub></td>
+    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Example 2</b> — Prompt Injection</sub></td>
+    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Example 3</b> — Prompt Injection</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Services</b> — Sneakpeek of how i jailbroke it</sub></td>
-    <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Process</b> — harness python run output</sub></td>
+    <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Context</b> — Sneakpeek of how i jailbroke it</sub></td>
+    <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Harness Output</b> — harness python run output</sub></td>
   </tr>
 </table>
 
