@@ -26,20 +26,16 @@ This repository is the other thing. It contains:
 
 <table>
   <tr>
-    <td width="50%"><img src="images/04-harness-run.png" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
-    <td width="50%"><img src="docs/screenshots/05-walkthrough.png" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
+    <td width="50%"><img src="images/prompt1.png" width="100%"/><br/><sub><b>Hero</b> — 3D-tilt video with a cycling headline</sub></td>
+    <td width="50%"><img src="images/prompt2.png" width="100%"/><br/><sub><b>Walkthrough</b> — a real video scrubbed by scroll position</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/screenshots/07-gallery.png" width="100%"/><br/><sub><b>Residences</b> — parallax gallery, generated photography</sub></td>
-    <td width="50%"><img src="docs/screenshots/03-statement.png" width="100%"/><br/><sub><b>Statement</b> — two-column editorial with a parallax image</sub></td>
+    <td width="50%"><img src="images/prompt3.png" width="100%"/><br/><sub><b>Residences</b> — parallax gallery, generated photography</sub></td>
+    <td width="50%"><img src="images/prompt4.png" width="100%"/><br/><sub><b>Statement</b> — two-column editorial with a parallax image</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/screenshots/04-services.png" width="100%"/><br/><sub><b>Services</b> — hover-driven list with a live detail panel</sub></td>
-    <td width="50%"><img src="docs/screenshots/06-process.png" width="100%"/><br/><sub><b>Process</b> — staggered reveals on a blueprint grid</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/08-contact.png" width="100%"/><br/><sub><b>Contact</b> — parallax CTA with a masked headline reveal</sub></td>
-    <td width="50%"><img src="docs/screenshots/01-intro.png" width="100%"/><br/><sub><b>Intro</b> — animated monogram, load counter, click-to-enter gate</sub></td>
+    <td width="50%"><img src="images/jailbreak.png" width="100%"/><br/><sub><b>Services</b> — hover-driven list with a live detail panel</sub></td>
+    <td width="50%"><img src="images/harness-run.png" width="100%"/><br/><sub><b>Process</b> — staggered reveals on a blueprint grid</sub></td>
   </tr>
 </table>
 
