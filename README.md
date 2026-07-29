@@ -27,11 +27,11 @@ This repository is the other thing. It contains:
 <table>
   <tr>
     <td width="50%"><img src="images/prompt1.jpeg" width="100%"/><br/><sub><b>Example 1</b> — Prompt Injection</sub></td>
-    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Walkthrough</b> — Prompt Injection</sub></td>
+    <td width="50%"><img src="images/prompt2.jpeg" width="100%"/><br/><sub><b>Example 2</b> — Prompt Injection</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Example 2</b> — Prompt Injection</sub></td>
-    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Example 3</b> — Prompt Injection</sub></td>
+    <td width="50%"><img src="images/prompt3.jpeg" width="100%"/><br/><sub><b>Example 3</b> — Prompt Injection</sub></td>
+    <td width="50%"><img src="images/prompt4.jpeg" width="100%"/><br/><sub><b>Example 4</b> — Prompt Injection</sub></td>
   </tr>
   <tr>
     <td width="50%"><img src="images/jailbreak.jpeg" width="100%"/><br/><sub><b>Context</b> — Sneakpeek of how i jailbroke it</sub></td>
