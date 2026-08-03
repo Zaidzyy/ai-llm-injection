@@ -125,7 +125,7 @@ if d.severity == "high":
 
 **output**
 
-```console"
+```console
 {
   "flagged": true,
   "score": 4.0,
