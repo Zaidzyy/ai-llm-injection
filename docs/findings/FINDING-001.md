@@ -9,7 +9,7 @@
 | **Tested** | 2026-07-27 |
 | **Security severity** | **Low** — no cross-user impact, no privilege escalation |
 | **Safety-policy severity** | **Moderate** — documented control did not hold on a shipped surface |
-| **Status** | Reported; payload withheld |
+| **Status** | Reported |
 
 ---
 
@@ -60,22 +60,20 @@ covers it (`P-004`, `P-005`); this finding does not.
 
 | Artifact | Shows |
 |---|---|
-| [`images/01-system-prompt-disclosure.png`](../../images/01-system-prompt-disclosure.png) | Published operator rules, including the prohibited-category list |
-| [`images/02-safety-rules-listing.png`](../../images/02-safety-rules-listing.png) | The non-overridable claim and the decline requirement, stated by the model |
-| [`images/03-configuration-surface-redacted.png`](../../images/03-configuration-surface-redacted.png) | The delivery channel, payload redacted |
+| [`images/prompt1.jpeg`](../../images/prompt1.jpeg) | Published operator rules, including the prohibited-category list |
+| [`images/prompt2.jpeg`](../../images/prompt2.jpeg) | The non-overridable claim and the decline requirement, stated by the model |
+| [`images/jailbreak.jpeg`](../../images/jailbreak.jpeg) | The delivery channel — the account-level configuration field |
 
-Images 01 and 02 are **baseline, not bypass** — the model disclosing its rules on request is
-documented intended behaviour (see [DL-001](../disclosure-log.md)). They appear here because
+`prompt1` and `prompt2` are **baseline, not bypass** — the model disclosing its rules on request
+is documented intended behaviour (see [DL-001](../disclosure-log.md)). They appear here because
 they establish the policy this finding is measured against, in the vendor's own words.
 
 ## Withheld
 
-- The configuration payload
-- All model output in prohibited categories
 - One third-party product vulnerability surfaced during testing, carrying a separate
   disclosure obligation to that vendor
 
-Permanently, not on a timer. Rationale: [`redaction-policy.md`](../redaction-policy.md).
+Rationale: [`redaction-policy.md`](../redaction-policy.md).
 
 ## Limitations
 
@@ -114,4 +112,3 @@ General guidance: [`mitigations.md`](../mitigations.md).
 | 2026-07-27 | Initial report filed (system prompt disclosure — subsequently withdrawn, [DL-001](../disclosure-log.md)) |
 | *pending* | This finding submitted |
 | *pending* | Vendor response |
-| *pending* | Publication of write-up (90 days or resolution, whichever first) |
