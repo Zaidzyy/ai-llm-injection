@@ -2,7 +2,7 @@
 
 **A direct prompt injection against Grok (xAI), reported to the vendor — plus a reproducible harness for measuring LLM instruction-hierarchy robustness and a stdlib-only prompt-injection detector.**
 
-[![CI](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaidzyy/ai-llm-security-research/actions/workflows/ci.yml)
+[![CI](https://github.com/Zaidzyy/ai-llm-injection/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaidzyy/ai-llm-injection/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![OWASP](https://img.shields.io/badge/OWASP-LLM01-orange)
 
@@ -44,8 +44,8 @@ Full write-up: [`docs/findings/FINDING-001.md`](docs/findings/FINDING-001.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/Zaidzyy/ai-llm-security-research.git
-cd ai-llm-security-research/harness
+git clone https://github.com/Zaidzyy/ai-llm-injection.git
+cd ai-llm-injection/harness
 pip install -e ".[dev]"
 
 # Offline — no API key, no cost, no network
